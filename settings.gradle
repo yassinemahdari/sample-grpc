@@ -1,6 +1,5 @@
-rootProject.name = 'training'
+rootProject.name = 'grpc-sample-example'
 
-include 'grpc-training'
-include 'grpc-training:grpc-server'
-include 'grpc-training:grpc-client'
-include 'grpc-training:proto-file-definition'
+include 'grpc-server'
+include 'grpc-client'
+include 'proto-file-definition'
