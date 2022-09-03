@@ -1,1 +1,1 @@
-# training
+# gRPC sample example
