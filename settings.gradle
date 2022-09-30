@@ -1,4 +1,4 @@
-rootProject.name = 'grpc-sample-example'
+rootProject.name = 'sample-grpc'
 
 include 'grpc-server'
 include 'grpc-client'

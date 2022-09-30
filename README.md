@@ -1,1 +1,1 @@
-# gRPC sample example
+# sample gRPC
